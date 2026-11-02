@@ -4,6 +4,8 @@ Predicts next-quarter product sales for a four-outlet supermarket chain using
 multiple linear regression, then turns the model into store-level expansion and
 inventory recommendations.
 
+Completed as part of the **Applied Data Science Program**, MIT Professional Education.
+
 - **Notebook (code, analysis and findings):** [`SuperKart_Solution_Notebook_Machine_Learning__Project.ipynb`](SuperKart_Solution_Notebook_Machine_Learning__Project.ipynb)
 
 ## Problem
